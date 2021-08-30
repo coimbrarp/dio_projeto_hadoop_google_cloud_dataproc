@@ -31,9 +31,9 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ## Resultado - As 10 palavras que mais aparecem:
 
-'the', 4066
-'and', 2969
-'of', 2746
+_'the', 4066
+_'and', 2969
+_'of', 2746
 'I', 2719
 'to', 2144
 'my', 1631
