@@ -31,13 +31,13 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ## Resultado - As 10 palavras que mais aparecem:
 
-'the', 4066 vezes
-'and', 2969 vezes
-'of', 2746 vezes
-'I', 2719 vezes
-'to', 2144 vezes
-'my', 1631 vezes
-'a', 1394 vezes
-'', 1186 vezes
-'in', 1129 vezes
-'was', 994 vezes
+'the', 4066
+'and', 2969
+'of', 2746
+'I', 2719
+'to', 2144
+'my', 1631
+'a', 1394
+'', 1186
+'in', 1129
+'was', 994
