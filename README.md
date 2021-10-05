@@ -24,7 +24,7 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ---
 
-# Resultado - As 10 palavras que mais aparecem:
+## Resultado - As 10 palavras que mais aparecem:
 
 Palavra | Quantidade
 ------- | --------
