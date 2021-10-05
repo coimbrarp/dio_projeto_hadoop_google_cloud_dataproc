@@ -1,10 +1,3 @@
-# dio_projeto_hadoop_google_cloud_dataproc
-Repositório de projeto do bootcamp de Data Engineer da Digital Innovation One
-
-<p align="center"><img src="./dio_logo.png" width="500"></p>
-
----
-
 ## Desafio GCP Dataproc
 
 O desafio faz parte do curso na plataforma da Digital Innovation One:
