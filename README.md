@@ -21,20 +21,3 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 1. Criar um repositório no GitHub.
 2. Criar um arquivo chamado ```resultado.txt```. Dentro desse arquivo, colocar as 10 palavras que mais são usadas no livro, de acordo com o resultado do Job.
 3. Inserir os arquivo ```resultado.txt``` e ```part-00000``` no repositório e informar na plataforma da Digital Innovation One.
-
----
-
-## Resultado - As 10 palavras que mais aparecem:
-
-Palavra | Quantidade
-------- | --------
-'the' | 4066
-'and' | 2969
-'of' | 2746
-'I' | 2719
-'to' | 2144
-'my' | 1631
-'a' | 1394
-'' | 1186
-'in' | 1129
-'was' | 994
